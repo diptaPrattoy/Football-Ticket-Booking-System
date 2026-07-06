@@ -20,7 +20,7 @@ The system uses three main tables:
 ## ERD Link
 
 ```text
-PASTE_YOUR_PUBLIC_ERD_LINK_HERE
+https://drive.google.com/file/d/11PeimoExvHaYoQBQacKPMYrAHPwFdqHr/view?usp=sharing
 ```
 
 ## How to Run
